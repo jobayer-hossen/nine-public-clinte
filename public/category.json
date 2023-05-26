@@ -1,0 +1,22 @@
+[
+    {
+        "logo": "https://img.freepik.com/free-vector/flat-creativity-concept-illustration_52683-64279.jpg?w=740&t=st=1681054557~exp=1681055157~hmac=e64d0c7d2c3d0b4438af1697c8bd97248f1667512e01fd08f10a306cfe57b0b0",
+        "name": "Creative Design",
+        "available": "300+ Jobs Available"
+    },
+    {
+        "logo": "https://img.freepik.com/free-vector/share-business-dividend-calculation-percentage-ratio-contribution-size-deposit-amount-accounting-audit-shareholders-cartoon-characters_335657-1217.jpg?w=740&t=st=1681054653~exp=1681055253~hmac=6daedaef168aeae39332f9fd0d1ed81f414724f920b7798979cad8023aed09f6",
+        "name": "Marketing & Sales",
+        "available": "200 Jobs Available"
+    },
+    {
+        "logo": "https://img.freepik.com/free-vector/calculator-concept-illustration_114360-1239.jpg?w=740&t=st=1681054418~exp=1681055018~hmac=01cc6331b51862856b702f31750491c3dbfaf7bffbdc7584dc23629bc98faf6a",
+        "name": "Account & Finance",
+        "available": "100+ Jobs Available"
+    },
+    {
+        "logo": "https://img.freepik.com/free-vector/gradient-bim-illustration_23-2150219386.jpg?w=740&t=st=1681054856~exp=1681055456~hmac=4f1ee2432203e14efe7c3f0f7127acad365a87b6aeaf9ba0d3616a1cdb887288",
+        "name": "Engineering Job",
+        "available": "50 Jobs Available"
+    }
+]

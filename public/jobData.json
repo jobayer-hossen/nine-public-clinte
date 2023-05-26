@@ -1,0 +1,112 @@
+
+
+[
+  {
+    "id": "3038",
+    "companyLogo": "https://cdn-icons-png.flaticon.com/512/281/281781.png?w=740&t=st=1681153003~exp=1681153603~hmac=de97d63f87377120c18fbee75cd69fc76d035c8a1e64d81c8bed2f1dd9c26869",
+    "jobTitle": "Software Engineer",
+    "companyName": "Google",
+    "remoteOrOnsite": "Onsite",
+    "location": "San Francisco, CA",
+    "fulltimeOrParttime": "Fulltime",
+    "salary": "$150,000 - $200,000",
+    "jobDescription": "We are seeking an experienced software engineer to join our team .",
+    "jobResponsibility": "Responsibilities include developing and maintaining software applications and systems, debugging code, and collaborating with cross-functional teams .",
+    "educationalRequirements": "Bachelor's or Master's degree in Computer Science or related field .",
+    "experiences": "Minimum 5 years of experience in software engineering .",
+    "contactInformation": {
+      "phone": "555-123-4567",
+      "email": "careers@google.com"
+    }
+  },
+  {
+    "id": "9796",
+    "companyLogo": "https://cdn-icons-png.flaticon.com/512/518/518714.png?w=740&t=st=1681153076~exp=1681153676~hmac=87a59066ba3e10a79c8c0025971b730a50de3cf12d2e706e0b49ad975aaad40c",
+    "jobTitle": "iOS Developer",
+    "companyName": "Apple",
+    "remoteOrOnsite": "Onsite",
+    "location": "Cupertino, CA",
+    "fulltimeOrParttime": "Fulltime",
+    "salary": "$120,000 - $160,000",
+    "jobDescription": "We are seeking an experienced iOS developer to join our team .",
+    "jobResponsibility": "Responsibilities include developing and maintaining iOS applications, debugging code, and collaborating with cross-functional teams .",
+    "educationalRequirements": "Bachelor's or Master's degree in Computer Science or related field .",
+    "experiences": "Minimum 3 years of experience in iOS development .",
+    "contactInformation": {
+      "phone": "555-123-4567",
+      "email": "careers@apple.com"
+    }
+  },
+  {
+    "id":"3792",
+    "companyLogo": "https://cdn-icons-png.flaticon.com/512/732/732221.png?w=740&t=st=1681153123~exp=1681153723~hmac=6498f7ef93a7de55d5a8c24240db36e043b144cc91124bc8b5fcd81c0eafa080",
+    "jobTitle": "Data Analyst",
+    "companyName": "Microsoft",
+    "remoteOrOnsite": "Remote",
+    "location": "Redmond, WA",
+    "fulltimeOrParttime": "Fulltime",
+    "salary": "$100,000 - $140,000",
+    "jobDescription": "We are seeking a data analyst to join our team .",
+    "jobResponsibility": "Responsibilities include analyzing and interpreting large data sets, identifying trends, and communicating insights to cross-functional teams .",
+    "educationalRequirements": "Bachelor's or Master's degree in Data Science or related field .",
+    "experiences": "Minimum 2 years of experience in data analysis .",
+    "contactInformation": {
+      "phone": "555-123-4567",
+      "email": "careers@microsoft.com"
+    }
+  },
+  {
+    "id":"0977",
+    "companyLogo": "https://cdn-icons-png.flaticon.com/512/858/858397.png?w=740&t=st=1681153441~exp=1681154041~hmac=4facbbcda8a2777a07bde5655ea2313fdc5eea9089895e487230f8b0bc3d3c66",
+    "jobTitle": "Frontend Developer",
+    "companyName": "Fishy Design",
+    "remoteOrOnsite": "Remote",
+    "location": "USA",
+    "fulltimeOrParttime": "Full-time",
+    "salary": "$80,000 - $100,000",
+    "jobDescription": "We are looking for a talented frontend developer to join our team at Fishy Design. As a frontend developer, you will be responsible for developing and implementing user interface components using React.js and Vue.js .",
+    "jobResponsibility": "Develop new user-facing features, build reusable code and libraries for future use, ensure the technical feasibility of UI/UX designs, collaborate with other team members and stakeholders .",
+    "educationalRequirements": "Bachelor's degree in Computer Science, Software Engineering, or related field .",
+    "experiences": "2+ years of experience in frontend development .",
+    "contactInformation": {
+      "phone": "555-1234",
+      "email": "jobs@fishydesign.com"
+    }
+  },
+  {
+    "id": "4382",
+    "companyLogo": "https://cdn-icons-png.flaticon.com/512/288/288940.png?w=740&t=st=1681153288~exp=1681153888~hmac=c875de82c3d3f5d6467d4ac9bdc4debc1c99ee4a95dcb16b8f11ab420ae9b1ac",
+    "jobTitle": "Backend Developer",
+    "companyName": "EagleTech",
+    "remoteOrOnsite": "Onsite",
+    "location": "Canada",
+    "fulltimeOrParttime": "Full-time",
+    "salary": "$90,000 - $110,000",
+    "jobDescription": "We are seeking a skilled backend developer to join our team at EagleTech. As a backend developer, you will be responsible for designing and implementing the backend logic of our web applications .",
+    "jobResponsibility": "Develop and maintain RESTful APIs, integrate with third-party APIs, write and maintain database schemas and queries, ensure system stability and security, collaborate with other team members and stakeholders .",
+    "educationalRequirements": "Bachelor's degree in Computer Science, Software Engineering, or related field .",
+    "experiences": "3+ years of experience in backend development .",
+    "contactInformation": {
+      "phone": "555-5678",
+      "email": "jobs@eagletech.com"
+    }
+  },
+  {
+    "id": "6811",
+    "companyLogo": "https://cdn-icons-png.flaticon.com/512/1057/1057596.png?w=740&t=st=1681153579~exp=1681154179~hmac=d086c33e41a72df2f79dde716a2344961e92efff55305c24df7afec4193ccc36",
+    "jobTitle": "Data Analyst",
+    "companyName": "SpaceX",
+    "remoteOrOnsite": "Remote",
+    "location": "USA",
+    "fulltimeOrParttime": "Full-time",
+    "salary": "$75,000 - $95,000 ",
+    "jobDescription": "We are looking for a data analyst to join our team at SpaceX. As a data analyst, you will be responsible for analyzing large datasets and providing insights to drive business decisions .",
+    "jobResponsibility": "Gather and analyze data from various sources, develop and maintain data models, create data visualizations and dashboards, collaborate with other team members and stakeholders .",
+    "educationalRequirements": "Bachelor's degree in Data Science, Mathematics, Statistics, Computer Science, or related field .",
+    "experiences": "2+ years of experience in data analysis .",
+    "contactInformation": {
+      "phone": "555-9012",
+      "email": "jobs@fishydesign.com"}
+    }
+]
+
